@@ -1,0 +1,9 @@
+a{
+    color: rgb(172, 92, 105);
+}
+body, html{
+    margin: 0;
+    padding: 0;
+    color: rgb(192, 94, 111);
+    background-color: pink;
+}
